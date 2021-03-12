@@ -26,7 +26,7 @@ SECRET_KEY = '58r+s3i4a#!ym2!!pu=%^6_k_p4t#wp=s934xkapyoul&ff6^%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['murmuring-stream-69323.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
